@@ -28,6 +28,6 @@ The system ingests internal corporate policy documents, semantically chunks them
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/hr-policy-rag-assistant.git
+git clone https://github.com/Siddarth-Prasad/hr-policy-rag-assistant.git
 cd hr-policy-rag-assistant
 
